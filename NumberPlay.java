@@ -1,4 +1,4 @@
-package java project;
+package java project2;
 import java.util.Scanner;
 
 public class NumberPlay {
