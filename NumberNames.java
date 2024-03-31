@@ -1,4 +1,4 @@
-package DAY3;
+package java project;
 import java.util.Scanner;
 
 public class NumberNames {
